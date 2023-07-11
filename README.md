@@ -12,9 +12,9 @@ I set out to use an HTML scraper to better understand the data I was working wit
 
 I used the first table from [this Wikipedia site](https://en.wikipedia.org/wiki/List_of_serial_killers_in_the_United_States#Identified_serial_killers) for this project.
 
-## New skills, what I learned
+## New skills/ What I learned
 For this project, I really wanted to try doing a D3 interactive graph for the hotspots so that readers could explore the states that are the common ground for serial killers. I think that might have been an interesting way to explore the data. Unfortunately, I did not have the time to turn something around quickly, but this is something I hope to do for the next project. 
 
-As for what I tried that was new — using HTML scraping to better understand the website I was trying to analyze was a learning curve. It made me think outside the box for ways I could approach my data. In the future, I would like to do a side-bar to this story, solely focusing on the victims of these crimes with scrollytelling for readers. 
+As for what I tried that was new — using HTML scraping to better understand the website I was trying to analyze was a learning curve. It made me think outside the box for ways I could approach my data. In the future, I would like to do a side-bar to this story, solely focusing on the victims of these crimes with scrollytelling for readers.
 
  
